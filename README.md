@@ -1,6 +1,6 @@
+## Project Overview
 
-Project Overview
-This is a simple public API developed for the HNG12 Stage 0 Backend Task. The API returns basic information, including:
+This is a simple public API. The API returns basic information, including:
 
 Your registered email address.
   - The current datetime in ISO 8601 UTC format.
