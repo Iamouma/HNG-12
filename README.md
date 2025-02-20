@@ -1,13 +1,3 @@
-# **HNG12 BACKEND**
-
-## **Overview**
-The **HNG12 Backend Internship** is a structured program designed to help developers improve their backend development skills through practical tasks. This repository documents the progress and implementation of various backend-related tasks as part of the internship program.
-
-The first task in this program required the development of a **public API** that returns basic information, including the developer's registered email, the current datetime in **ISO 8601 format**, and a GitHub repository URL containing the project's source code. The API is implemented in **Node.js (Express.js)**.
-
----
-
-## **STAGE-0 - Public API Development**
 
 Project Overview
 This is a simple public API developed for the HNG12 Stage 0 Backend Task. The API returns basic information, including:
